@@ -12,7 +12,7 @@ namespace DiContainer
 
         public void Hello()
         {
-            Console.WriteLine("HEllo B");
+            Console.WriteLine("Hello from B");
         }
     }
 }

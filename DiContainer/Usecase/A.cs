@@ -8,7 +8,7 @@ namespace DiContainer
 
         public void Hi()
         {
-            Console.WriteLine("HI FROM A");
+            Console.WriteLine("Hi from A");
         }
     }
 }
